@@ -1,0 +1,9 @@
+1.   What is the command for making new directory ?
+2.   Command to see hidden files present in a directory ?
+3.   Command to initialize git in a directory for the first time ?
+4.   Command for creating a new file with git bash terminal?
+5.   Command for opening the file in git bash ?
+
+The below question should be answered within 30 words and your explaination.
+
+6. How  "git" and "Git hub" are different (explain as if you are explaining to your friend)
